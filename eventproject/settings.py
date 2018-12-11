@@ -25,7 +25,7 @@ SECRET_KEY = 'fofm2b#)8cftw9%hjajhu@@&9fghcqj4_xhr3^3(mnm59-#v-m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*', '127.0.0.1', 'localhost', 'http://eventapp.eventprojectss.com/' 'https://eventprojectss.herokuapp.com/']
+ALLOWED_HOSTS = ['*', '127.0.0.1', 'localhost', 'http://eventprojectss.herokuapp.com/' 'https://eventprojectss.herokuapp.com/']
 
 
 # Application definition
